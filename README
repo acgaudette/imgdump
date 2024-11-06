@@ -1,0 +1,7 @@
+I was surprised when I was unable to find a comparable utility elsewhere.
+
+Usage:
+	./mk
+	./imgdump [FILE]...
+
+Supports most common image formats (via stb_image).
